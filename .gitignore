@@ -1,0 +1,4 @@
+/src/test/java/com/apple/hcl4/controller/
+/src/main/resources/SomeTables.jpa
+/nb-configuration.xml
+/src/test/resources/arquillian.xml
