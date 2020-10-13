@@ -33,7 +33,7 @@
         <version.logback>1.2.3</version.logback>
         <version.arquillian>1.4.1.Final</version.arquillian>
         <version.jacoco>0.8.4</version.jacoco>
-        <version.junit>4.12</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.arquillian-payara>1.1</version.arquillian-payara>
         <version.valid4j>1.1</version.valid4j>
         <version.commons-lang>2.6</version.commons-lang>
